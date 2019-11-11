@@ -1,4 +1,4 @@
-# UsQoP - User-centric QoS-based pricing model
+# UsQoP - User-centric QoS-based pricing simulation model
 
 Authors: Vesna Radonjic-Djogatovic, Marko S. Djogatovic
 
